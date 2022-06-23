@@ -1,0 +1,37 @@
+.services__content {
+    margin-left: 7.8125rem;
+    margin-right: 7.8125rem;
+    display: flex;
+    row-gap: 32px;
+    column-gap: 30px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 80px;
+}
+.services__button {
+    margin-left: 7.8125rem;
+    margin-right: 7.8125rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 184px;
+}
+
+@media screen and (max-width: 1040px)  {
+    .services__content {
+        margin-left: 0;
+        margin-right: 0;
+        display: flex;
+        row-gap: 32px;
+        column-gap: 30px;
+        flex-wrap: wrap;
+        flex-direction: row;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 80px;
+    }
+}
