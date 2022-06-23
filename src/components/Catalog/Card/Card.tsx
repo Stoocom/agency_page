@@ -1,4 +1,4 @@
-import React, {useState, useContext, useEffect} from 'react';
+import React, {useState, useContext } from 'react';
 import './Card.css';
 import ServicesContext, {IService} from "../../../context/ServicesProvider";
 

@@ -1,4 +1,4 @@
-import React, { useState, useContext } from 'react';
+import React, { useContext } from 'react';
 import './Services.css';
 import ServicesContext, {IService} from "../../../context/ServicesProvider";
 import Card from "../Card";

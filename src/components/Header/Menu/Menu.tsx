@@ -10,28 +10,28 @@ export const Menu = () => {
         </a>
         <ul className="buttonsGroup">
             <li className="item_button">
-                <a href='/about' className="link">
+                <a href='/' className="link">
                     About
                 </a>
             </li>
             <li className="item_button">
-                <a href='/services' className="link">
+                <a href='/' className="link">
                     Services
                 </a>
             </li>
             <li className="item_button">
-                <a href='/pricing' className="link">
+                <a href='/' className="link">
                     Pricing
                 </a>
             </li>
             <li className="item_button">
-                <a href='/blog' className="link">
+                <a href='/' className="link">
                     Blog
                 </a>
             </li>
         </ul >
         <div className="contact">
-            <a href='#' className="contact__button">
+            <a href='/' className="contact__button">
                 Contact
             </a>
         </div>
